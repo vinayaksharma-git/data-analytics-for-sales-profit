@@ -1,3 +1,7 @@
+# Using Analytics to Improve Sales & Profit
+
+---
+
 ### Background
 Retail stores collect massive amounts of daily transaction data, including what items were bought, when they were purchased, who bought them, and whether those items actually made money. However, raw data by itself cannot guide business decisions. Without a clear summary of performance, store management faces a major challenge: they cannot easily see where the business is thriving and where it is losing money.
 
