@@ -26,3 +26,6 @@ The goal of this project is to analyze the store’s transaction records to unco
 - Data Exploration & Analysis: Grouping data to calculate key business metrics—like comparing overall sales against actual profits—across different customer groups and item categories to see what drives the business.
 
 - Data Visualization: Building clean, interactive charts (like side-by-side grouped bar charts and breakdown charts) using Plotly Express to make complex trends and numbers easy to see at a glance.
+
+### Dashboard:
+[dashboard](https://github.com/vinayaksharma-git/data-analytics-for-sales-profit/blob/main/dashboard-analytics-to-improve-sales-and-profit.png)
